@@ -15,7 +15,7 @@ During this session we will start introducing machine learning concepts, through
   
 ### 3: logistic regression
   * [Theory](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20regression_lecture%20.ipynb)
-  * [classify person "deceased or not" using titanic data Project(Practice)](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20Reg.ipynb)
+  * [classify person "deceased or not" using titanic data Project (Practice)](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20Reg.ipynb)
 
   
    
