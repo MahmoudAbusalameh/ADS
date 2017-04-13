@@ -11,11 +11,11 @@ During this session we will start introducing machine learning concepts, through
   * Reinforcement learning
 ### 2: linear regression
   * [Theory](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/History.ipynb)
-  * [Math student prediction final grade exam Project](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/Linear%20Reg.ipynb)
+  * [Math student prediction final grade exam Project (Practice)](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/Linear%20Reg.ipynb)
   
 ### 3: logistic regression
   * [Theory](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20regression_lecture%20.ipynb)
-  * [classify person deceased or not using titanic data Project](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20Reg.ipynb)
+  * [classify person "deceased or not" using titanic data Project(Practice)](https://github.com/Abdel-Razzak/ADS/blob/Module-2-Manchine-learning-algorithms-and-techniques/S2/logistic%20Reg.ipynb)
 
   
    
