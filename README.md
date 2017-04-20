@@ -90,3 +90,12 @@ during this session you wil you start working on the basics of R. In seven secti
 * [R Functions](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/Exercises/R%20Functions.ipynb)
 * [R visualization](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/Exercises/R%20ggplot2.ipynb)
 * [Data Manipulation using R](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/Exercises/R%20Datamanipulation.ipynb)
+
+### Solutions
+* [R Basics](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/Solutions/R%20Basics.ipynb)
+* [R Matrix](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/Solutions/RMatrix.ipynb)
+* [R Dataframes](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/Solutions/R%20Dataframes.ipynb)
+* [R Conditional statments](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/Solutions/R%20conditional%20statements.ipynb)
+* [R Functions](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/Solutions/R%20Functions.ipynb)
+* [R visualization](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/Solutions/R%20ggplot2.ipynb)
+* [Data Manipulation using R](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/Solutions/R%20Datamanipulation.ipynb)
