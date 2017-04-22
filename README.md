@@ -21,6 +21,7 @@ during this session you wil you start working on the basics of R. In seven secti
 ### What you'll learn
 * Introductory R language fundamentals and basic syntax
 * What R is and how it’s used to perform data analysis
+* Comparing R and Python: read this [Infoworld article](http://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html). 
 * Become familiar with the major R data structures
 * Create your own visualizations using R
 ### Used Resources during session
@@ -28,7 +29,7 @@ during this session you wil you start working on the basics of R. In seven secti
 * [getting started with R](https://github.com/Abdel-Razzak/ADS/blob/Module-1-Introduction-to-the-course/INDEX%201-Introduction%20to%20R.ipynb)
 
 ### Session Outline related to R Basics
-***Note: Please use the following link [HTML PREVIEW](http://htmlpreview.github.io/)  if you cant read file in github
+*** Note: Please use the following link [HTML PREVIEW](http://htmlpreview.github.io/)  if you cant read file in github***
 * #### R Basics
    * [Variables](http://htmlpreview.github.io/?https://github.com/Abdel-Razzak/ADS/blob/fe66e738c70b427739bbab0eebb3ca249724dd27/Notes/Basics%20of%20R%20and%20Data%20Types/R%20Basics/Variables.html)
    * [Data Types](http://htmlpreview.github.io/?https://github.com/Abdel-Razzak/ADS/blob/fe66e738c70b427739bbab0eebb3ca249724dd27/Notes/Basics%20of%20R%20and%20Data%20Types/R%20Basics/R%20Data%20Types%20.html)
