@@ -1,4 +1,4 @@
-# Deep Learning with Keras and Tensorflow 
+# Deep Learning with Tensorflow Keras and
   * [Intro to Deep Learning and ANN](https://github.com/Abdel-Razzak/ADS/blob/Module-7--Deep-Learning/Deep%20Learning/Introduction%20-%20Deep%20Learning%20and%20ANN.ipynb)
   * Intro to Tensorflow
     * [getting started with tensorflow](https://github.com/Abdel-Razzak/ADS/blob/Module-7--Deep-Learning/Deep%20Learning/Tensorflow%20Basics.ipynb)
